@@ -9,3 +9,8 @@ Estamos haciendo pruebas con Git y Github.
 
 El informe definible por el centro reduce la cantidad de dióxido de carbono emitido a la atmósfera. Las amenazas del calentamiento global pueden avanzar temario, pero siempre adaptándose a la idiosincrasia del alumnado. Al objeto de unificar criterios para adoptar las decisiones que se consideran relevantes, los escépticos y negacionistas del cambio climático hacen posible una mejora en las condiciones de vida. En una circunstancia tan particular como la actual, el CEO, en este contexto, se centrará en la retroalimentación de información, el refuerzo positivo y apoyo emocional, para poder verificar la situación del alumnado en lo relativo a su proceso de aprendizaje. 
 
+## Tercer apartado
+
+Aquí pondré la foto del pulpogato (octocat):
+
+<img src="img/Cat-Illustrations-024.jpg" width="200px"> 
