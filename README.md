@@ -11,6 +11,4 @@ El informe definible por el centro reduce la cantidad de dióxido de carbono emi
 
 ## Tercer apartado
 
-Aquí pondré la foto de la pulpogata (octocat):
-
 <img src="img/Cat-Illustrations-024.jpg" width="200px"> 
